@@ -8,10 +8,6 @@
 
 	#main {
 		background-image:   url('../../images/155853.png'),	linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)),	url($background_image);
-		background-size:		auto,								auto,														100% auto;
-		background-position:	center,								center,														top center;
-		background-repeat:		repeat,								no-repeat,													no-repeat;
-		background-attachment:	scroll,								scroll,														scroll;
 		background-color: _palette(bg);
 		position: relative;
 		margin: 0 auto;
